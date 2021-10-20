@@ -1,4 +1,4 @@
-# DtMoney
+# ig.news
 
 News subscription application using ReactJS developed in the Rocketseat Ignite course using stripe as a test payment method.
 
