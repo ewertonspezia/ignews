@@ -36,7 +36,7 @@ $ cd ignews
 $ yarn
 
 # Adjusting variables in the .env.local file
-$ Copy .env.local.example to .env.local and fill with Stripe and Github secret keys
+$ Copy .env.local.example to .env.local and fill the variables
 
 # Stripe listen execute
 $ stripe listen --forward-to localhost:3000/api/webhooks
