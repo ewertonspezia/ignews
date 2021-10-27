@@ -2,6 +2,19 @@
 
 News subscription application using ReactJS developed in the Rocketseat Ignite course using stripe as a test payment method.
 
+## Technologies
+
+Technologies used to build the application
+
+- [ReactJS](https://reactjs.org/)
+- [NextJS](https://nextjs.org/)
+- [TypeScript](https://www.typescriptlang.org/)
+- [SASS](https://sass-lang.com/)
+- [Next-Auth](https://next-auth.js.org/)
+- [Stripe](https://stripe.com/)
+- [FaunaDB](https://fauna.com/)
+- [Prismic CMS](https://prismic.io/)
+
 ## Screenshots
 
 <div align="center" id="top"> 
